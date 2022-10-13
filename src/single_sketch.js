@@ -24,7 +24,6 @@ sketch.setup = function(){
   fft = new p5.FFT();
   amplitude = new p5.Amplitude();
   //frameRate(10);
-
   button = createButton('start');
   button.position(20, height);
   button.mousePressed(playExample);
