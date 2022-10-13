@@ -26,11 +26,11 @@ sketch.setup = function(){
   //frameRate(10);
 
   button = createButton('start');
-  button.position(width/2 + 60, height);
+  button.position(20, height);
   button.mousePressed(playExample);
 
   select = createSelect();
-  select.position(width/2 + 120, height);
+  select.position(90, height);
   select.option('reine');
   select.option('cassenoix');
   select.option('cassenoix-handcut');
