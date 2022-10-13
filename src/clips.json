@@ -1,0 +1,164 @@
+{
+  "collection":
+  [
+    {
+      "name": "reine",
+      "clips": [
+        {
+          "button": 1,
+          "track": "clip-114",
+          "duration": 900
+        },
+        {
+          "button": 2,
+          "track": "clip-117",
+          "duration": 960
+        },
+        {
+          "button": 0,
+          "track": "clip-120",
+          "duration": 980
+        },
+        {
+          "button": 3,
+          "track": "clip-123",
+          "duration": 970
+        },
+
+        {
+          "button": 2,
+          "track": "clip-126",
+          "duration": 1030
+        },
+        {
+          "button": 1,
+          "track": "clip-129",
+          "duration": 1170
+        },
+        {
+          "button": 3,
+          "track": "clip-132",
+          "duration": 1230
+        },
+        {
+          "button": 0,
+          "track": "clip-135",
+          "duration": 970
+        },
+
+        {
+          "button": 0,
+          "track": "clip-138",
+          "duration": 1220
+        },
+        {
+          "button": 1,
+          "track": "clip-141",
+          "duration": 940
+        },
+        {
+          "button": 2,
+          "track": "clip-144",
+          "duration": 970
+        },
+        {
+          "button": 3,
+          "track": "clip-147",
+          "duration": 1000
+        }
+      ]
+    },
+    {
+      "name": "cassenoix",
+      "clips": [
+        {
+          "button": 3,
+          "track": "clip-78",
+          "duration": 1143
+        },
+        {
+          "button": 1,
+          "track": "clip-79",
+          "duration": 1190
+        },
+        {
+          "button": 2,
+          "track": "clip-80",
+          "duration": 1036
+        },
+        {
+          "button": 0,
+          "track": "clip-81",
+          "duration": 919
+        },
+
+        {
+          "button": 0,
+          "track": "clip-82",
+          "duration": 940
+        },
+        {
+          "button": 2,
+          "track": "clip-83",
+          "duration": 1136
+        },
+        {
+          "button": 1,
+          "track": "clip-84",
+          "duration": 1174
+        },
+        {
+          "button": 3,
+          "track": "clip-85",
+          "duration": 1174
+        }
+      ]
+    },
+    {
+      "name": "cassenoix-handcut",
+      "clips": [
+        {
+          "button": 3,
+          "track": "cassenoix-001",
+          "duration": 1930
+        },
+        {
+          "button": 1,
+          "track": "cassenoix-002",
+          "duration": 1310
+        },
+        {
+          "button": 2,
+          "track": "cassenoix-003",
+          "duration": 940
+        },
+        {
+          "button": 0,
+          "track": "cassenoix-004",
+          "duration": 970
+        },
+
+        {
+          "button": 0,
+          "track": "cassenoix-005",
+          "duration": 1020
+        },
+        {
+          "button": 2,
+          "track": "cassenoix-006",
+          "duration": 1167
+        },
+        {
+          "button": 1,
+          "track": "cassenoix-007",
+          "duration": 1138
+        },
+        {
+          "button": 3,
+          "track": "cassenoix-008",
+          "duration": 1020
+        }
+      ]
+    }
+  ]
+}
